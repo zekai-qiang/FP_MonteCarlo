@@ -116,13 +116,13 @@ Q̂ₗ = (1/N) Σₙ₌₁ᴺ Yₗ⁽ⁿ⁾
 
 ### 5.1 Important Assumptions
 
-1. **Independence of Applicant Preferences**: The model assumes that applicant preferences are conditionally independent given the first choice and school similarity structure.
+1. **Applicant preferences are independent**: The model assumes that applicant preferences are conditionally independent given the first choice and school similarity structure.
 
-2. **Similarity-Based Preference Correlation**: The assumption that schools with similar first-preference ratios are more likely to appear together in preference lists reflects the hypothesis that applicants consider school competitiveness when ranking alternatives.
+2. **Preference correlations are similarity-based**: The assumption that schools with similar first-preference ratios are more likely to appear together in preference lists reflects the hypothesis that applicants consider school competitiveness when ranking alternatives.
 
-3. **Random Processing Order**: The model assumes that the actual allocation system introduces sufficient randomness that can be approximated by random serial dictatorship.
+3. **Processing order is sufficiently random**: The model assumes that the actual allocation system introduces sufficient randomness that can be approximated by random serial dictatorship.
 
-4. **Stationary School Characteristics**: The model assumes that school characteristics (capacity, competitiveness) remain stable within the allocation cycle being simulated.
+4. **School characteristics are stationary**: The model assumes that school characteristics (capacity, competitiveness) remain stable within the allocation cycle being simulated.
 
 ### 5.2 Sensitivity Analysis
 
